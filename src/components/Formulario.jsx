@@ -7,7 +7,7 @@ const Formulario = () => {
     const clubes = []
     return (
         <Fragment>
-            <form action='http://www.google.com.pe' method="GET">
+            <form action='http://www.google.com.pe' method="GET" className="mb-5">
                 <div className="form-group">
                     <label>Nombre <span className="required">*</span></label>
                     <input type="text" name="nombre" id="nombre" className="form-control" />
