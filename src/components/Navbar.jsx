@@ -1,5 +1,6 @@
 import React, { Fragment } from 'react'
 import logo from '../img/logo.png'
+import './css/Navbar.css'
 
 const Navbar = () => {
     return (

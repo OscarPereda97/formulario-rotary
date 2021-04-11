@@ -1,0 +1,10 @@
+.nav-link{
+    transition-property: color, border-bottom;
+    transition-duration: .5s;
+    border-bottom: 1px solid transparent;
+}
+
+.nav-link:hover{
+    border-bottom: 1px solid #0277bd;
+    color: #0277bd !important;
+}

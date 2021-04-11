@@ -1,3 +1,16 @@
 footer{
     background-color: #0277bd;
 }
+
+footer i{
+    color: #ef9200;
+}
+
+footer h2{
+    color: white;
+    font-size: 40px;
+}
+
+footer small{
+    color: white;
+}
