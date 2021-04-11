@@ -39,9 +39,10 @@ function App() {
           <div className="col-md-6 col-12 mt-5">
             <Formulario />
           </div>
-          <Footer />
+         
         </div>
       </div>
+      <Footer />
     </div>
   );
 }
