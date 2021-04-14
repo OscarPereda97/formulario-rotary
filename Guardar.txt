@@ -1,0 +1,76 @@
+<select name="club" id="club" className="form-control">
+                        <option key="Bagua" data-zona="Amazonas">Amazonas - Bagua</option>
+                        <option key="Caraz" data-zona="Ancash">Ancash - Caraz</option>
+                        <option key="Casma" data-zona="Ancash">Ancash - Casma</option>
+                        <option key="Chimbote" data-zona="Ancash">Ancash - Chimbote</option>
+                        <option key="Chimbote Buenos Aires" data-zona="Ancash">Ancash - Chimbote Buenos Aires</option>
+                        <option key="Chimbote Centenario" data-zona="Ancash">Ancash - Chimbote Centenario</option>
+                        <option key="Chimbote Norte" data-zona="Ancash">Ancash - Chimbote Norte</option>
+                        <option key="Chimbote Universal" data-zona="Ancash">Ancash - Chimbote Universal</option>
+                        <option key="Huaraz" data-zona="Ancash">Ancash - Huaraz</option>
+                        <option key="Independencia Huaraz" data-zona="Ancash">Ancash - Independencia Huaraz</option>
+                        <option key="Monterrey por la Paz Huaraz" data-zona="Ancash">Ancash - Monterrey por la Paz Huaraz</option>
+                        <option key="Nuevo Chimbote" data-zona="Ancash">Ancash - Nuevo Chimbote</option>
+                        <option key="Cajamarca" data-zona="Cajamarca">Cajamarca - Cajamarca</option>
+                        <option key="Cajamarca Layzón" data-zona="Cajamarca">Cajamarca - Cajamarca Layzón</option>
+                        <option key="Cajamarca Los Incas" data-zona="Cajamarca">Cajamarca - Cajamarca Los Incas</option>
+                        <option key="Jaen" data-zona="Cajamarca">Cajamarca - Jaen</option>
+                        <option key="Callao" data-zona="Callao">Callao - Callao</option>
+                        <option key="La Perla" data-zona="Callao">Callao - La Perla</option>
+                        <option key="Huánuco" data-zona="Huánuco">Huánuco - Huánuco</option>
+                        <option key="Tingo María" data-zona="Huánuco">Huánuco - Tingo María</option>
+                        <option key="Chanchamayo La Merced" data-zona="Junin">Junin - Chanchamayo La Merced</option>
+                        <option key="Huancayo" data-zona="Junin">Junin - Huancayo</option>
+                        <option key="Tambo Huancayo" data-zona="Junin">Junin - Tambo Huancayo</option>
+                        <option key="Chiclayo" data-zona="Lambayeque">Lambayeque - Chiclayo</option>
+                        <option key="Chiclayo Muchik" data-zona="Lambayeque">Lambayeque - Chiclayo Muchik</option>
+                        <option key="Chiclayo Norte" data-zona="Lambayeque">Lambayeque - Chiclayo Norte</option>
+                        <option key="Chiclayo Primavera" data-zona="Lambayeque">Lambayeque - Chiclayo Primavera</option>
+                        <option key="Chiclayo Sur" data-zona="Lambayeque">Lambayeque - Chiclayo Sur</option>
+                        <option key="Villarreal Chiclayo" data-zona="Lambayeque">Lambayeque - Villarreal Chiclayo</option>
+                        <option key="José Leonardo Ortiz" data-zona="Lambayeque">Lambayeque - José Leonardo Ortiz</option>
+                        <option key="Lambayeque" data-zona="Lambayeque">Lambayeque - Lambayeque</option>
+                        <option key="Santa Victoria" data-zona="Lambayeque">Lambayeque - Santa Victoria</option>
+                        <option key="E-Club Fusión Latina" data-zona="La Libertad">La Libertad - E-Club Fusión Latina</option>
+                        <option key="Huamachuco" data-zona="La Libertad">La Libertad - Huamachuco</option>
+                        <option key="Trujillo" data-zona="La Libertad">La Libertad - Trujillo</option>
+                        <option key="Trujillo California" data-zona="La Libertad">La Libertad - Trujillo California</option>
+                        <option key="Trujillo Libertad" data-zona="La Libertad">La Libertad - Trujillo Libertad</option>
+                        <option key="Trujillo Norte" data-zona="La Libertad">La Libertad - Trujillo Norte</option>
+                        <option key="Trujillo San Andrés" data-zona="La Libertad">La Libertad - Trujillo San Andrés</option>
+                        <option key="Trujillo Señorial" data-zona="La Libertad">La Libertad - Trujillo Señorial</option>
+                        <option key="Trujillo Sur" data-zona="La Libertad">La Libertad - Trujillo Sur</option>
+                        <option key="Barranca" data-zona="Lima">Lima - Barranca</option>
+                        <option key="Barranca Milenario" data-zona="Lima">Lima - Barranca Milenario</option>
+                        <option key="Huacho" data-zona="Lima">Lima - Huacho</option>
+                        <option key="Huaral" data-zona="Lima">Lima - Huaral</option>
+                        <option key="Amanecer Loretano" data-zona="Loreto">Loreto - Amanecer Loretano</option>
+                        <option key="Iquitos" data-zona="Loreto">Loreto - Iquitos</option>
+                        <option key="Iquitos Amazonas" data-zona="Loreto">Loreto - Iquitos Amazonas</option>
+                        <option key="Iquitos Sur" data-zona="Loreto">Loreto - Iquitos Sur</option>
+                        <option key="Castilla" data-zona="Piura">Piura - Castilla</option>
+                        <option key="Catacaos" data-zona="Piura">Piura - Catacaos</option>
+                        <option key="Miraflores Piura" data-zona="Piura">Piura - Miraflores Piura</option>
+                        <option key="Piura" data-zona="Piura">Piura - Piura</option>
+                        <option key="Piura Norte" data-zona="Piura">Piura - Piura Norte</option>
+                        <option key="Piura Oeste" data-zona="Piura">Piura - Piura Oeste</option>
+                        <option key="Sullana" data-zona="Piura">Piura - Sullana</option>
+                        <option key="Sullana Capullanas Turi" data-zona="Piura">Piura - Sullana Capullanas Turi</option>
+                        <option key="Sullana del Chira" data-zona="Piura">Piura - Sullana del Chira</option>
+                        <option key="Paita Centro" data-zona="Piura">Piura - Paita Centro</option>
+                        <option key="Chulucanas (Club Satélite)" data-zona="Piura">Piura - Chulucanas (Club Satélite)</option>
+                        <option key="Los Ejidos" data-zona="Piura">Piura - Los Ejidos</option>
+                        <option key="Los Tallanes" data-zona="Piura">Piura - Los Tallanes</option>
+                        <option key="Tambogrande" data-zona="Piura">Piura - Tambogrande</option>
+                        <option key="Tarapoto" data-zona="San Martin">San Martín - Tarapoto</option>
+                        <option key="Akinti Pucallpa" data-zona="Ucayali">Ucayali - Akinti Pucallpa</option>
+                        <option key="Pucallpa" data-zona="Ucayali">Ucayali - Pucallpa</option>
+                        <option key="Pucallpa Oeste" data-zona="Ucayali">Ucayali - Pucallpa Oeste</option>
+                        <option key="Yarinacocha" data-zona="Ucayali">Ucayali - Yarinacocha</option>
+                        <option key="Pucallpa Metropolitano" data-zona="Ucayali">Ucayali - Pucallpa Metropolitano</option>
+                        <option key="Pucallpa Sur" data-zona="Ucayali">Ucayali - Pucallpa Sur</option>
+                        <option key="Miraflores La Arena" data-zona="Satélites">Satélites - Miraflores La Arena</option>
+                        <option key="Miraflores Morropon" data-zona="Satélites">Satélites - Miraflores Morropon</option>
+                        <option key="Miraflores Chulucanas" data-zona="Satélites">Satélites - Miraflores Chulucanas</option>
+                    </select>
+                    
